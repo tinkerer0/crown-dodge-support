@@ -13,7 +13,7 @@ Apple Watch의 디지털 크라운을 돌려 원 궤도를 움직이는 무료 �
 
 ## 문의
 
-지원 이메일: **memobuddy66@gmail.com**
+지원 이메일: **tinkerer0.dev@gmail.com**
 
 문제가 생기면 기기 모델, OS 버전, 앱 버전과 발생 상황을 적어 주세요. 비밀번호나 민감한 개인정보를 보내지 마세요.
 
@@ -25,4 +25,4 @@ Crown Dodge is a free Apple Watch arcade game controlled with the Digital Crown.
 
 Gameplay runs on Apple Watch. The iPhone companion provides installation and control instructions. No account, advertising, or in-app purchase is required.
 
-Support: **memobuddy66@gmail.com**. Include the device model, OS/app version and a description of the issue. Do not send passwords or sensitive information.
+Support: **tinkerer0.dev@gmail.com**. Include the device model, OS/app version and a description of the issue. Do not send passwords or sensitive information.
